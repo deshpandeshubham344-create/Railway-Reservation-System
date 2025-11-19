@@ -1,2 +1,2 @@
-# Railway-Reservation-System
-It is a project which is used to book railway ticket it can be used as microproject in colleges 
+# Learning Git and GitHub
+This is the that is the proof of i am currently learning git and github neatly and in deep
